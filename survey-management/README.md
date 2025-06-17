@@ -1,4 +1,4 @@
-# frontend
+# survey-management
 
 ## Project setup
 ```
